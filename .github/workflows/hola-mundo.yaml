@@ -15,4 +15,4 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Saludo inicial
-      run: echo "Hola mundo desde GitHub Actions"
+      run: echo "Probando desde una nueva rama"
